@@ -18,7 +18,7 @@
 	</parent>
 
 	<properties>
-		<admin.server.version>1.5.2</admin.server.version>
+		<admin.server.version>3.1.2</admin.server.version>
 		<admin.server.ui.version>1.5.2</admin.server.ui.version>
 		<admin.client.version>1.5.2</admin.client.version>
 	</properties>
